@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1sMWuKQzEQw9Lj9e3DaALFi06V6PBUI70V2GGUM4NH2SJTxkRdUJ7r+GhOgPY4/n8cBPLUZ3ZcmNHgp9JK+4rg==",
+  "dgSpecHash": "ncH4MnKaAggE73LmA7VyyS1FMprDeBzYynO2wEaV2X8zJzPTEQ7hdpZnEOqfsogw2m7VM55IZfFlyX8H9QJHNg==",
   "success": true,
   "projectFilePath": "C:\\project\\po\\PO\\PO.Backend\\Backend.API\\Backend.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Arm\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Arm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\Arm\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\Arm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\Arm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
